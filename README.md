@@ -6,13 +6,7 @@
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Farooq85-dev&data=followers,repositories,stars,commits&theme=viridescent)](https://github.com/Farooq85-dev/github-widgetbox)
 
-<img src="https://komarev.com/ghpvc/?username=Farooq85-dev&label=Profile%20views&color=0e75b6&style=flat" alt="Muhammad-Farooq Profile Views" />
-<br/>
-
-<p dir="auto">
-<a href="https://farooqfolio.vercel.app" rel="nofollow"><img src="https://img.shields.io/static/v1?message=Portfolio&logo=portfolio&label=&color=000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Portfolio"></a>
-<a href="https://www.linkedin.com/in/muhammad-farooq-b71886295/" rel="nofollow"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" alt="Linkedin" data-canonical-src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;"></a>
-</p>
+<img src="https://komarev.com/ghpvc/?username=samreenFatima89-dev&label=Profile%20views&color=0e75b6&style=flat" alt="Muhammad-Farooq Profile Views" />
 <br/>
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?includeNames=true&languages=html,css,bootstrap,js,firebase,reactjs,nodejs,expressjs,mongodb,vercel,git,nextjs)]()
@@ -23,12 +17,12 @@
 </h3>
 
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samreenFatima89" alt="Muhammad Farooq GitHub Streak Stats"/>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samreenFatima89-dev" alt="Samreen Fatima GitHub Streak Stats"/>
 </p>
 
 <p align="center">
-   <a href="https://github.com/Farooq85-dev/github-readme-stats"><img alt="Muhammad Farooq Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Farooq85-dev&show_icons=true&include_all_commits=true&count_private=true&theme=bg_color=FFFFF&title_color=FFA500&icon_color=000" height="192px"/></a>
-   <a href="https://github.com/Farooq85-dev/github-readme-stats"><img alt="Muhammad Farooq Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Farooq85-dev&langs_count=8&layout=compact&theme=bg_color=FFFFF&title_color=FFA500&icon_color=000" height="192px"/></a>
+   <a href="https://github.com/samreenFatima89-dev/github-readme-stats"><img alt="Samreen Fatima Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=samreenFatima89-dev&show_icons=true&include_all_commits=true&count_private=true&theme=bg_color=FFFFF&title_color=FFA500&icon_color=000" height="192px"/></a>
+   <a href="https://github.com/samreenFatima89-dev/github-readme-stats"><img alt="Samreen Fatima Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=samreenFatima89-dev&langs_count=8&layout=compact&theme=bg_color=FFFFF&title_color=FFA500&icon_color=000" height="192px"/></a>
 </p>
 </p>
 
