@@ -4,7 +4,7 @@
 
 <h3 align="center">
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Farooq85-dev&data=followers,repositories,stars,commits&theme=viridescent)](https://github.com/Farooq85-dev/github-widgetbox)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=samreenFatima89-dev&data=followers,repositories,stars,commits&theme=viridescent)](https://github.com/Farooq85-dev/github-widgetbox)
 
 <img src="https://komarev.com/ghpvc/?username=samreenFatima89-dev&label=Profile%20views&color=0e75b6&style=flat" alt="Muhammad-Farooq Profile Views" />
 <br/>
