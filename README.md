@@ -26,7 +26,7 @@
 </p>
 </p>
 
-<a href="https://github.com/Farooq85-dev/github-readme-activity-graph"><img alt="Muhammad Farooq Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Farooq85-dev&bg_color=FFFFF&color=000&line=FFA500&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/samreenFatima89-dev/github-readme-activity-graph"><img alt="Samreen Fatima Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=samreenFatima89-dev&bg_color=FFFFF&color=000&line=FFA500&point=FFFFFF&hide_border=true" /></a>
 
 <h3 align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer Image"/>
