@@ -6,7 +6,7 @@
 <h2 align="center">A passionate Mobile Aplliccation developer with expertise in React Native.</h2>
 
 <h3 align="center">
-  <img height="230em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Samreen-Fatima-89&theme=apprentice"/>
+  
   <br/>
   <img src="https://komarev.com/ghpvc/?username=Samreen-Fatima-89&label=Profile%20views&color=0e75b6&style=flat" alt="Samreen Fatima Profile Views" />
   <br/>
