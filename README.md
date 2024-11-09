@@ -3,7 +3,7 @@
 </h3>
 
 <h1 align="center">Hi, I'm Samreen Fatima.</h1>
-<h2 align="center">A passionate Mobile Aplliccation developer with expertise in React Native.</h2>
+<h2 align="center">A passionate Mobile Aplliccation developer with expertise in React and React Native.</h2>
 
 <h3 align="center">
   
